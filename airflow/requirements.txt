@@ -1,0 +1,4 @@
+yfinance==0.1.63
+pandas==1.5.2
+requests==2.26.0
+my-sql-connector-python==8.0.28
